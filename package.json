@@ -1,5 +1,5 @@
 {
-  "name": "ZUGAWA - BOT",
+  "name": "ZUGAWA-BOT",
   "version": "1.0.0",
   "description": "Un chatbot automatizado para WhatsApp basado en Node.js, que permite realizar múltiples funciones y personalizaciones en la plataforma.",
   "main": "index.js",
@@ -17,16 +17,16 @@
     "eslintfix": "eslint --fix .",
     "postinstall": "node pipdeps.js"
   },
-  "homepage": "https://github.com/BrunoSobrino/ZUGAWA - BOT",
+  "homepage": "https://github.com/BrunoSobrino/ZUGAWA-BOT",
   "author": {
     "name": "BrunoSobrino"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/BrunoSobrino/ZUGAWA - BOT.git"
+    "url": "git+https://github.com/BrunoSobrino/ZUGAWA-BOT.git"
   },
   "bugs": {
-    "url": "https://github.com/BrunoSobrino/ZUGAWA - BOT/issues"
+    "url": "https://github.com/BrunoSobrino/ZUGAWA-BOT/issues"
   },
   "license": "GPL-3.0-or-later",
   "dependencies": {
@@ -38,7 +38,7 @@
     "@shineiichijo/marika": "^2.0.6",
     "@shiroko/module": "github:shiroko-devs/star-module",
     "@vitalets/google-translate-api": "^8.0.0",
-    "baileys": "ds6/meta",
+    "baileys": "git+ssh://git@github.com/BrunoSobrino/Baileys-Itsukichann.git",
     "acrcloud": "^1.4.0",
     "aptoide-scraper": "github:DIEGO-OFC/dv-aptoide-scraper",
     "awesome-phonenumber": "^2.68.0",

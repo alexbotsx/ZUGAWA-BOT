@@ -1,4 +1,4 @@
-// Codigo hecho para ZUGAWA - BOT - MD por https://github.com/BrunoSobrino
+// Codigo hecho para ZUGAWA-BOT - MD por https://github.com/BrunoSobrino
 // By @BrunoSobrino
 import axios from 'axios';
 const { proto, generateWAMessageFromContent, generateWAMessageContent } = (await import("baileys")).default;

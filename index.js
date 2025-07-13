@@ -55,7 +55,7 @@ async function start(file) {
   if (isRunning) return;
   isRunning = true;
 
-  say('ZUGAWA - BOT\nBot', {
+  say('ZUGAWA-BOT\nBot', {
     font: 'chrome',
     align: 'center',
     gradient: ['red', 'magenta'],

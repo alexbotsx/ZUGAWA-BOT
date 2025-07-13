@@ -23,7 +23,7 @@ ${tradutor.texto1[1]}
 
 2.- https://chat.whatsapp.com/L4R9dHQVyafDB1eqg8wGeU?mode=r_t`.trim();
   const buttonMessage= {
-    'document': {url: `https://github.com/BrunoSobrino/ZUGAWA - BOT`},
+    'document': {url: `https://github.com/BrunoSobrino/ZUGAWA-BOT`},
     'mimetype': `application/${document}`,
     'fileName': `${tradutor.texto2}`,
     'fileLength': 99999999999999,
@@ -32,7 +32,7 @@ ${tradutor.texto1[1]}
       'forwardingScore': 200,
       'isForwarded': true,
       'externalAdReply': {
-        'mediaUrl': 'https://github.com/BrunoSobrino/ZUGAWA - BOT',
+        'mediaUrl': 'https://github.com/BrunoSobrino/ZUGAWA-BOT',
         'mediaType': 2,
         'previewType': 'pdf',
         'title': `${tradutor.texto3}`,

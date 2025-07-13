@@ -29,11 +29,11 @@ global.prems = ['56997160468 '];
 global.BASE_API_DELIRIUS = "https://delirius-apiofc.vercel.app";
 
 global.packname = 'Sticker';
-global.author = 'ZUGAWA - BOT';
-global.wm = 'ZUGAWA - BOT';
-global.titulowm = 'ZUGAWA - BOT';
-global.titulowm2 = `ZUGAWA - BOT`
-global.igfg = 'ZUGAWA - BOT';
+global.author = 'ZUGAWA-BOT';
+global.wm = 'ZUGAWA-BOT';
+global.titulowm = 'ZUGAWA-BOT';
+global.titulowm2 = `ZUGAWA-BOT`
+global.igfg = 'ZUGAWA-BOT';
 global.wait = '*_[ ⏳ ] Cargando..._*';
 
 global.imagen1 = fs.readFileSync('./src/assets/images/menu/languages/es/menu.png');
@@ -53,12 +53,12 @@ global.mes = d.toLocaleDateString('es', {month: 'long'});
 global.año = d.toLocaleDateString('es', {year: 'numeric'});
 global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 //* ****************************
-global.wm2 = `${dia} ${fecha}\nZUGAWA - BOT`;
-global.gt = 'ZUGAWA - BOT';
-global.mysticbot = 'ZUGAWA - BOT';
+global.wm2 = `${dia} ${fecha}\nZUGAWA-BOT`;
+global.gt = 'ZUGAWA-BOT';
+global.mysticbot = 'ZUGAWA-BOT';
 global.channel = 'https://whatsapp.com/channel/0029VaZ90V9EKyZGyqHKt61M';
-global.md = 'https://github.com/BrunoSobrino/ZUGAWA - BOT';
-global.mysticbot = 'https://github.com/BrunoSobrino/ZUGAWA - BOT';
+global.md = 'https://github.com/BrunoSobrino/ZUGAWA-BOT';
+global.mysticbot = 'https://github.com/BrunoSobrino/ZUGAWA-BOT';
 global.waitt = '*_[ ⏳ ] Cargando..._*';
 global.waittt = '*_[ ⏳ ] Cargando..._*';
 global.waitttt = '*_[ ⏳ ] Cargando..._*';

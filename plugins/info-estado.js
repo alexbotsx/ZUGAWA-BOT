@@ -28,7 +28,7 @@ const handler = async (m, { conn, usedPrefix }) => {
   const old = performance.now();
   const neww = performance.now();
   const rtime = (neww - old).toFixed(7);
-  const wm = 'ZUGAWA - BOT Bot';
+  const wm = 'ZUGAWA-BOT Bot';
   const info = ` ${tradutor.texto1[0]}
 
   ${tradutor.texto1[1]} Alexn
@@ -63,7 +63,7 @@ const handler = async (m, { conn, usedPrefix }) => {
   ];
   const document = doc[Math.floor(Math.random() * doc.length)];
   const Message = {
-    document: { url: `https://github.com/BrunoSobrino/ZUGAWA - BOT` },
+    document: { url: `https://github.com/BrunoSobrino/ZUGAWA-BOT` },
     mimetype: `application/${document}`,
     fileName: `Documento`,
     fileLength: 99999999999999,
@@ -75,7 +75,7 @@ const handler = async (m, { conn, usedPrefix }) => {
         mediaUrl: "https://chat.whatsapp.com/L4R9dHQVyafDB1eqg8wGeU?mode=r_t",
         mediaType: 2,
         previewType: "pdf",
-        title: "ZUGAWA - BOT",
+        title: "ZUGAWA-BOT",
         body: tradutor.texto2,
         thumbnail: imagen1,
         sourceUrl: "https://chat.whatsapp.com/L4R9dHQVyafDB1eqg8wGeU?mode=r_t",

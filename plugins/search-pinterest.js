@@ -5,7 +5,7 @@
  ☆ GitHub: github.com/glytglobal/
  ☆ Tipo: Buscador de Pinterest (Modo Carrusel)
  ☆ Descripción: Creado específicamente y adaptado
-   a las funcionalidades de ZUGAWA - BOT, prohibida su
+   a las funcionalidades de ZUGAWA-BOT, prohibida su
    venta, modificación sin autorización explícita y cambios de
    derechos de autor. Creative Commons (2025) -License-.
 

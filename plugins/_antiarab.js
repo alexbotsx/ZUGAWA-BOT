@@ -1,4 +1,4 @@
-// ZUGAWA - BOT@BrunoSobrino - _antiarab.js
+// ZUGAWA-BOT@BrunoSobrino - _antiarab.js
 
 
 const handler = (m) => m;

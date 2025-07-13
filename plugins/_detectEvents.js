@@ -27,7 +27,7 @@ export async function before(m, { conn, participants }) {
 
     let groupName = "el grupo";
     let groupMetadata = groupMetadataCache.get(m.chat);
-    let pp = 'https://raw.githubusercontent.com/BrunoSobrino/ZUGAWA - BOT/master/src/avatar_contact.png';
+    let pp = 'https://raw.githubusercontent.com/BrunoSobrino/ZUGAWA-BOT/master/src/avatar_contact.png';
     let img = null;
 
     if (!groupMetadata) {
