@@ -1,5 +1,5 @@
 /*              Codigo Creado Por Bruno Sobrino
-      (https://github.com/BrunoSobrino/𝐔𝐧𝐊𝐧 - 𝐁𝐎𝐓)
+      (https://github.com/BrunoSobrino/ZUGAWA - BOT)
 */
 
 

@@ -26,8 +26,8 @@ handler.all = async function(m, {conn}) {
   };
 
   if ((m.mtype === 'groupInviteMessage' || m.text.startsWith('https://chat') || m.text.startsWith('Abre este enlace')) && !m.isBaileys && !m.isGroup && !chat.isBanned && !m.fromMe && checkPrimaryBot()) {
-    const join = `${tradutor.texto1[0]} @${m.sender.split('@')[0]}, ${tradutor.texto1[1]} https://chat.whatsapp.com/LbdiPrImAbI67gaA5Dyf3j`.trim();
-    this.sendMessage(m.chat, {text: join.trim(), mentions: [...join.matchAll(/@([0-9]{5,16}|0)/g)].map((v) => v[1] + '@s.whatsapp.net'), contextInfo: {forwardingScore: 9999999, isForwarded: true, mentionedJid: [...join.matchAll(/@([0-9]{5,16}|0)/g)].map((v) => v[1] + '@s.whatsapp.net'), "externalAdReply": {"showAdAttribution": true, "containsAutoReply": true, "renderLargerThumbnail": true, "title": global.titulowm2, "containsAutoReply": true, "mediaType": 1, "thumbnail": global.imagen1, "mediaUrl": `https://chat.whatsapp.com/LbdiPrImAbI67gaA5Dyf3j`, "sourceUrl": `https://chat.whatsapp.com/LbdiPrImAbI67gaA5Dyf3j`}}}, {quoted: m});
+    const join = `${tradutor.texto1[0]} @${m.sender.split('@')[0]}, ${tradutor.texto1[1]} https://chat.whatsapp.com/L4R9dHQVyafDB1eqg8wGeU?mode=r_t`.trim();
+    this.sendMessage(m.chat, {text: join.trim(), mentions: [...join.matchAll(/@([0-9]{5,16}|0)/g)].map((v) => v[1] + '@s.whatsapp.net'), contextInfo: {forwardingScore: 9999999, isForwarded: true, mentionedJid: [...join.matchAll(/@([0-9]{5,16}|0)/g)].map((v) => v[1] + '@s.whatsapp.net'), "externalAdReply": {"showAdAttribution": true, "containsAutoReply": true, "renderLargerThumbnail": true, "title": global.titulowm2, "containsAutoReply": true, "mediaType": 1, "thumbnail": global.imagen1, "mediaUrl": `https://chat.whatsapp.com/L4R9dHQVyafDB1eqg8wGeU?mode=r_t`, "sourceUrl": `https://chat.whatsapp.com/L4R9dHQVyafDB1eqg8wGeU?mode=r_t`}}}, {quoted: m});
   }
 
   if (/^hola$/i.test(m.text) && !chat.isBanned && checkPrimaryBot()) {

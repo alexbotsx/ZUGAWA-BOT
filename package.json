@@ -1,5 +1,5 @@
 {
-  "name": "𝐔𝐧𝐊𝐧 - 𝐁𝐎𝐓",
+  "name": "ZUGAWA - BOT",
   "version": "1.0.0",
   "description": "Un chatbot automatizado para WhatsApp basado en Node.js, que permite realizar múltiples funciones y personalizaciones en la plataforma.",
   "main": "index.js",
@@ -17,16 +17,16 @@
     "eslintfix": "eslint --fix .",
     "postinstall": "node pipdeps.js"
   },
-  "homepage": "https://github.com/BrunoSobrino/𝐔𝐧𝐊𝐧 - 𝐁𝐎𝐓",
+  "homepage": "https://github.com/BrunoSobrino/ZUGAWA - BOT",
   "author": {
     "name": "BrunoSobrino"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/BrunoSobrino/𝐔𝐧𝐊𝐧 - 𝐁𝐎𝐓.git"
+    "url": "git+https://github.com/BrunoSobrino/ZUGAWA - BOT.git"
   },
   "bugs": {
-    "url": "https://github.com/BrunoSobrino/𝐔𝐧𝐊𝐧 - 𝐁𝐎𝐓/issues"
+    "url": "https://github.com/BrunoSobrino/ZUGAWA - BOT/issues"
   },
   "license": "GPL-3.0-or-later",
   "dependencies": {
